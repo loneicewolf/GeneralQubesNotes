@@ -12,9 +12,8 @@ most used:
 
 ### Security
 `better be, Safe. Than sorry.`
-- https://www.fbi.gov/investigate/cyber#Respond-and Report
-- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/on-the-internet
-- https://www.ic3.gov/Home/FAQ https://www.ic3.gov/Home/FileComplaint
+- [The Cyber Threat - fbi.gov](https://www.fbi.gov/investigate/cyber#Respond-and)
+- [File Complaint - ic3.gov](https://www.ic3.gov/Home/FileComplaint)
 
 
 
